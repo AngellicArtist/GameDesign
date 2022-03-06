@@ -1,2 +1,2 @@
 # GameDesign-TheMissingPair
-Game development for the vertical slice project.
+Project management for Unity game designs.
